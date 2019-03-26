@@ -1,0 +1,5 @@
+install.packages("rstan")
+install.packages("tidyverse")
+install.packages("MASS")
+install.packages("ellipse")
+install.packages("brms")
